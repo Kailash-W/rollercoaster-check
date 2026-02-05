@@ -39,3 +39,4 @@ while running:
     if(result.upper() == "X"):
         running = False
 print("hallo nigel")
+print("Tot ziens!")
